@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CA1031: 不捕获常规异常类型
+dotnet_diagnostic.CA1031.severity = silent
+
+# CA1307: 指定 StringComparison
+dotnet_diagnostic.CA1307.severity = silent
+
+# CA1304: 指定 CultureInfo
+dotnet_diagnostic.CA1304.severity = silent
