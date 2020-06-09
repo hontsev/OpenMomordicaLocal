@@ -1,0 +1,12 @@
+﻿master=1
+groupmsgbuff=0
+starttime=2020-05-08 13:10:01
+startnum=16
+playtimeprivate=0
+playtimegroup=52
+errtime=0
+askname=我苦
+ignoreall=0
+testonly=0
+avatarfile=
+bkgfile=D:\_图片\QQ图片20200317153424.jpg
