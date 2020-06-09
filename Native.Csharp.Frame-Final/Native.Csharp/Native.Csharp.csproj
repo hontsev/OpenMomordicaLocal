@@ -76,8 +76,9 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <Reference Include="AlphaBlendTextBox">
-      <HintPath>..\..\..\..\..\Downloads\AlphaBlendTextBox_src\bin\Debug\AlphaBlendTextBox.dll</HintPath>
+    <Reference Include="AlphaBlendTextBox, Version=1.0.7433.26869, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\AlphaBlendTextBox.dll</HintPath>
     </Reference>
     <Reference Include="DllExport, PublicKeyToken=8337224c9ad9e356">
       <HintPath>$(SolutionDir)packages\DllExport.1.6.1\gcache\metalib\$(DllExportNamespace)\$(DllExportMetaLibName)</HintPath>
